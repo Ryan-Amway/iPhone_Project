@@ -1,4 +1,4 @@
 iPhone_Project
-==============
+===============
 
-iPhone project for our mobile group.
+In fact this is more than one of my practices on GitHub. Included are README.md.
